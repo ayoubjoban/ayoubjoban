@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there, I'm Ayoub Joban 👋
 
-<!--
-**ayoubjoban/ayoubjoban** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Second-year Artificial Intelligence Technologies Engineering student at Northern Technical University, Kirkuk, Iraq.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm most curious about the point where code meets the physical world: sensors, microcontrollers, and the data they produce. I'm early in my journey, so this GitHub is where I document what I build and learn along the way.
+
+## Projects
+
+You can explore my projects in the pinned repositories below. Each repository includes a README explaining its purpose and implementation.
+
+## Technical Skills
+
+- **Programming:** Python, C++ (Basic)
+- **Computer Science:** Data Structures (Python)
+- **Hardware & Embedded Systems:** Arduino, Raspberry Pi (Basic), sensors, servo motors
+- **Tools:** Google Colab, VS Code
+
+## Contact
+
+📫 [Email](mailto:10022549ayoob.imran@ntu.edu.iq)
